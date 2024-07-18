@@ -15,6 +15,38 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2024-07-16T14:30:51.623Z"
+    },
+    {
+      "id": 3,
+      "description": "Uber",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 17,
+      "createdAt": "2024-07-18T10:30:51.623Z"
+    },
+    {
+      "id": 4,
+      "description": "Freela",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2024-07-12T12:46:51.623Z"
+    },
+    {
+      "description": "Amazon",
+      "type": "outcome",
+      "category": "Gastos pessoais",
+      "price": 158,
+      "createdAt": "2024-07-18T17:42:52.346Z",
+      "id": 5
+    },
+    {
+      "description": "99Pop",
+      "type": "outcome",
+      "category": "Transporte",
+      "price": 7,
+      "createdAt": "2024-07-18T17:54:16.312Z",
+      "id": 6
     }
   ]
 }
